@@ -1,0 +1,19 @@
+.ventPage {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  height: 70vh;
+}
+
+.ventPage div {
+  padding: 20px;
+}
+
+.circle {
+  border: 1px solid black;
+  border-radius: 50%;
+}
+
+.imgCss {
+  height: 300px;
+}
